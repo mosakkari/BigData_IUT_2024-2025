@@ -12,7 +12,6 @@ Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principa
 ## Plan du cours
 
 1. **Notions de base de Big data**
-
 2. **L’écosystème du Big Data**
 3. **Principes fondamentaux de Hadoop MapReduce**
 4. **Hadoop en single-node**
@@ -30,23 +29,25 @@ Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principa
 ---
 ## Structure du Dossier
 
-### 1. [Le Processus ETL](/cours/01_Processus_ETL.pdf)
+### 1. [Notions de base de Big data](/cours/01_Processus_ETL.pdf)
 
-Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pour intégrer des données hétérogènes dans un entrepôt de données. Vous apprendrez les étapes de l'ETL, les outils couramment utilisés, ainsi que les meilleures pratiques pour concevoir des pipelines efficaces.
+Cette partie introduit les concepts fondamentaux du Big Data, en expliquant pourquoi il est devenu essentiel dans le traitement des données massives. On y explore les 5V (Volume, Vélocité, Variété, Véracité, Valeur) qui caractérisent le Big Data, ainsi que des exemples concrets de son application dans différents domaines comme l’analyse prédictive, les recommandations personnalisées et les systèmes intelligents
 
-### 2. [Exploitation des Entrepôts de Données OLAP](cours/02_Exploitation_OLAP.pdf)
+### 2. [L’écosystème du Big Data](cours/02_Exploitation_OLAP.pdf)
 
-Dans ce module, nous abordons les **Entrepôts de Données OLAP**. Vous découvrirez comment ces entrepôts permettent une analyse multidimensionnelle des données et comment construire des cubes OLAP pour des analyses complexes.
+Ce chapitre présente les outils clés de l’écosystème Big Data, leur rôle et leurs interactions.
 
-### 3. [Informatique Décisionnelle](/cours/03_Informatique_Decisionnelle.pdf)
+### 3. [Principes fondamentaux de Hadoop MapReduce](/cours/03_Informatique_Decisionnelle.pdf)
 
-Ce cours présente les fondations de l'**Informatique Décisionnelle**, y compris la modélisation en étoile et en flocon, l'utilisation de tableaux de bord interactifs, ainsi que les concepts avancés tels que les indicateurs de performance (KPIs).
+On y apprend le fonctionnement de MapReduce, un modèle de programmation distribué qui permet de traiter de gros volumes de données
 
----
+### 4. [Hadoop en mode Single-Node](/tp/03_Informatique_Decisionnelle.pdf)
 
-## Objectifs du Cours
+Cette section est dédiée à la configuration et à l’installation de Hadoop sur une seule machine, permettant de se familiariser avec l’outil avant de passer à une infrastructure distribuée. On y apprend le fonctionnement de MapReduce, un modèle de programmation distribué qui permet de traiter de gros volumes de données
 
-L'objectif de ce cours est de vous fournir une compréhension approfondie des processus ETL, de l'utilisation des entrepôts de données OLAP et des principes de l'informatique décisionnelle. Vous apprendrez à concevoir, intégrer et analyser des données dans un contexte décisionnel à travers des études de cas pratiques.
+### 5. [Cluster Hadoop de N Machines](/tp/03_Informatique_Decisionnelle.pdf)
+
+Dans cette partie, on met en œuvre un véritable cluster Hadoop avec plusieurs machines (maître et deux esclaves)
 
 ---
 
