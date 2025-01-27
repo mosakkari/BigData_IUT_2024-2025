@@ -30,23 +30,24 @@ Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principa
 ---
 ## Structure du Dossier
 
-### 1. [Notions de base de Big data](/cours/01_Processus_ETL.pdf)
+### 1. [Notions de base](cours/Notions_de_base.pdf) 
 
 Cette partie introduit les concepts fondamentaux du Big Data, en expliquant pourquoi il est devenu essentiel dans le traitement des données massives. On y explore les 5V (Volume, Vélocité, Variété, Véracité, Valeur) qui caractérisent le Big Data, ainsi que des exemples concrets de son application dans différents domaines comme l’analyse prédictive, les recommandations personnalisées et les systèmes intelligents
 
-### 2. [L’écosystème du Big Data](cours/02_Exploitation_OLAP.pdf)
+### 2. [L’écosystème du Big Data](cours/L’écosystème_du_Big_Data.pdf)
+
 
 Ce chapitre présente les outils clés de l’écosystème Big Data, leur rôle et leurs interactions.
 
-### 3. [Principes fondamentaux de Hadoop MapReduce](/cours/03_Informatique_Decisionnelle.pdf)
+### 3. [Principes fondamentaux de Hadoop MapReduce](cours/Principes_fondamentaux_de_Hadoop_MapReduce.pdf)
 
 On y apprend le fonctionnement de MapReduce, un modèle de programmation distribué qui permet de traiter de gros volumes de données
 
-### 4. [Hadoop en mode Single-Node](/tp/03_Informatique_Decisionnelle.pdf)
+### 4. [Hadoop en mode Single-Node](/tp/TP01.pdf)
 
 Cette section est dédiée à la configuration et à l’installation de Hadoop sur une seule machine, permettant de se familiariser avec l’outil avant de passer à une infrastructure distribuée. On y apprend le fonctionnement de MapReduce, un modèle de programmation distribué qui permet de traiter de gros volumes de données
 
-### 5. [Cluster Hadoop de N Machines](/tp/03_Informatique_Decisionnelle.pdf)
+### 5. [Cluster Hadoop de N Machines](/tp/TP02.pdf)
 
 Dans cette partie, on met en œuvre un véritable cluster Hadoop avec plusieurs machines (maître et deux esclaves)
 
