@@ -1,22 +1,23 @@
-# Cours - ETL, Entrepôts de Données OLAP et Informatique Décisionnelle
+# Cours - Big Data
+Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principaux outils de son écosystème, et une mise en œuvre pratique d’Hadoop, allant de notions de base de Big data jusqu'à la création d’un cluster multi-nœuds.
 
-Ce dossier contient les documents de cours pour la matière **ETL, Entrepôts de Données OLAP et Informatique Décisionnelle**. Les cours couvrent les concepts fondamentaux de l'informatique décisionnelle et se concentrent sur les thématiques suivantes :
-
-- **Processus ETL** : Extraction, Transformation et Chargement des données.
-- **Exploitation des Entrepôts de Données OLAP** : Concepts et utilisation.
-- **Informatique Décisionnelle** : Modélisation et analyse.
-
-Les cours sont présentés sous forme de fichiers PDF détaillant les concepts clés de chaque sujet.
-
----
+--
+## Objectifs du cours
+1. Comprendre les notions de base du Big Data et ses cas d’utilisation.
+2. Explorer l’écosystème du Big Data et ses principaux outils.
+3. Apprendre les principes fondamentaux de Hadoop et de MapReduce.
+4. Installer et configurer Hadoop en mode single-node.
+5. Mettre en place un cluster Hadoop multi-nœuds.
+--
 ## Plan du cours
 
-1. **Le Processus Extract-Transform-Load (ETL& Airflow, ETL avec Python)** 
+1. **Notions de base de Big data**
 
-2. **Exploitation d’un entrepôt de données OLAP (Entrepôt de données ,Cubes
-OLAP et opérations OLAP (roll up, drill down, slice, dice))**
-3. **L’Informatique Décisionnelle**
-   - ( Étude de cas : appliquer des concepts théoriques sur des données réelles pour montrer comment l'OLAP peut être utilisé pour répondre à des questions stratégiques, à l'aide de décision)  
+2. **L’écosystème du Big Data**
+3. **Principes fondamentaux de Hadoop MapReduce**
+4. **Hadoop en single-node**
+5. **Hadoop en N-machines**
+  
 ---
 
 ## Évaluation
