@@ -30,16 +30,16 @@ Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principa
 ---
 ## Structure du Dossier
 
-### 1. [Notions de base](cours/Notions de base.pdf)
+### 1. [Notions de base](cours/Notions_de_base.pdf) 
 
 Cette partie introduit les concepts fondamentaux du Big Data, en expliquant pourquoi il est devenu essentiel dans le traitement des données massives. On y explore les 5V (Volume, Vélocité, Variété, Véracité, Valeur) qui caractérisent le Big Data, ainsi que des exemples concrets de son application dans différents domaines comme l’analyse prédictive, les recommandations personnalisées et les systèmes intelligents
 
-### 2. [L’écosystème du Big Data](cours/L’écosystème du Big Data.pdf)
+### 2. [L’écosystème du Big Data](cours/L’écosystème_du_Big_Data.pdf)
 
 
 Ce chapitre présente les outils clés de l’écosystème Big Data, leur rôle et leurs interactions.
 
-### 3. [Principes fondamentaux de Hadoop MapReduce](cours/Principes fondamentaux de Hadoop MapReduce.pdf)
+### 3. [Principes fondamentaux de Hadoop MapReduce](cours/Principes_fondamentaux_de_Hadoop_MapReduce.pdf)
 
 On y apprend le fonctionnement de MapReduce, un modèle de programmation distribué qui permet de traiter de gros volumes de données
 
