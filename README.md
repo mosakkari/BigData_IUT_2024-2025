@@ -1,14 +1,15 @@
 # Cours - Big Data
 Ce cours **Big Data** couvre les concepts fondamentaux du Big Data, les principaux outils de son écosystème, et une mise en œuvre pratique d’Hadoop, allant de notions de base de Big data jusqu'à la création d’un cluster multi-nœuds.
 
---
+---
 ## Objectifs du cours
 1. Comprendre les notions de base du Big Data et ses cas d’utilisation.
 2. Explorer l’écosystème du Big Data et ses principaux outils.
 3. Apprendre les principes fondamentaux de Hadoop et de MapReduce.
 4. Installer et configurer Hadoop en mode single-node.
 5. Mettre en place un cluster Hadoop multi-nœuds.
---
+   
+---
 ## Plan du cours
 
 1. **Notions de base de Big data**
@@ -57,6 +58,12 @@ Dans cette partie, on met en œuvre un véritable cluster Hadoop avec plusieurs 
 2. **Participer aux séances en classe** : Les concepts clés sont approfondis et illustrés avec des exemples concrets pendant les séances collectives. Ces échanges sont cruciaux pour maîtriser le contenu du cours.
 3. **Travailler sur les TP** : Les exercices pratiques associés se trouvent dans le dossier [TP](/tp). Ces travaux pratiques vous permettront d'appliquer les notions vues en cours.
 4. **Consulter les ressources supplémentaires** : Les fichiers nécessaires pour les TPs sont disponibles dans le dossier [ressources](/ressources). Les fichiers volumineux spécifiques à certains exercices doivent être téléchargés depuis **Moodle**.
+
+---
+## Ressources   
+- [Apache Hadoop Documentation](https://hadoop.apache.org/)  
+- [Hadoop MapReduce Tutorial](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)  
+
 
 ---
 
